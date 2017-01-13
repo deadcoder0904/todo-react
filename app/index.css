@@ -1,0 +1,35 @@
+body {
+	background: rgba(255, 73, 66, 0.78);
+}
+
+h1 {
+	color: white;
+	font-size: 6em;
+	text-align: center;
+	font-family: 'Verdana';
+	text-shadow: 5px 8px 3px #333;
+}
+
+#app {
+	text-align: center;
+}
+
+input[type=text] {
+	width: 50%;
+	background: transparent;
+	outline: none;
+	height: 8vh;
+	font-size: 2em;
+	color: white;
+	font-weight: bolder;
+	border: 1px outset black;
+	text-align: center;
+}
+
+li {
+	color: white;
+	font-weight: bolder;
+	text-shadow: 5px 8px 3px #333;
+	list-style-type: none;
+	font-size: 4em;
+}

@@ -4,7 +4,7 @@
 
 # Screenshot
 
-![todo-react](.png)
+![todo-react](http://imgur.com/VQX4U3e.png)
 
 ## License
 
